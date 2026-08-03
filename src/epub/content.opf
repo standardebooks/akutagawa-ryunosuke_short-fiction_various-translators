@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/akutagawa-ryunosuke/short-fiction/various-translators</dc:identifier>
 		<dc:date>2026-03-19T19:50:13Z</dc:date>
@@ -39,10 +39,10 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of short fiction by Akutagawa Ryūnosuke, ordered by date of publication.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of short fiction by Akutagawa Ryūnosuke, ordered by date of publication.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/akutagawa-ryunosuke"&gt;Akutagawa Ryūnosuke&lt;/a&gt; was a respected author in pre-WWII Japan. He was well-read, and having received a Westernized education, his work blends traditional themes of Japanese culture with Western concepts. This edition collects the handful of English translations in the U.S. public domain of his nearly 200 short stories. The stories deal with a variety of themes and concepts: “The Nose” is a tale about vanity and perception of one’s image, “Rashōmon” deals with morality in the face of necessity, and “The Story of a Fallen Head” is an anti-war story. Akutagawa often ends his stories with a reflection related to the plot, spoken either by a character or by the narrator to the reader.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<!-- "The Ball," "Lice," "Mōri Sensei," "Rashōmon," "The Badger," "The Handkerchief," "The Nose," "The Pipe," "The Spider's Thread," "The Wine Worm" and "Tobacco and the Devil"-->
 		<dc:source>https://www.gutenberg.org/ebooks/78105</dc:source>
