@@ -39,7 +39,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of short fiction by Akutagawa Ryūnosuke, ordered by date of publication.</dc:abstract>
+		<meta property="schema:abstract">A collection of short fiction by Akutagawa Ryūnosuke, ordered by date of publication.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/akutagawa-ryunosuke"&gt;Akutagawa Ryūnosuke&lt;/a&gt; was a respected author in pre-WWII Japan. He was well-read, and having received a Westernized education, his work blends traditional themes of Japanese culture with Western concepts. This edition collects the handful of English translations in the U.S. public domain of his nearly 200 short stories. The stories deal with a variety of themes and concepts: “The Nose” is a tale about vanity and perception of one’s image, “Rashōmon” deals with morality in the face of necessity, and “The Story of a Fallen Head” is an anti-war story. Akutagawa often ends his stories with a reflection related to the plot, spoken either by a character or by the narrator to the reader.&lt;/p&gt;
 		</dc:description>
