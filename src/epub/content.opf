@@ -57,7 +57,7 @@
 		<link href="https://github.com/standardebooks/akutagawa-ryunosuke_short-fiction_various-translators" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Akutagawa Ryūnosuke</dc:creator>
 		<meta property="file-as" refines="#author">Akutagawa, Ryūnosuke</meta>
-		<meta property="alternate-script" refines="#author" xml:lang="ja">芥川 龍之介</meta>
+		<meta property="alternate-script" refines="#author">芥川 龍之介</meta>
 		<link href="https://en.wikipedia.org/wiki/Akutagawa_Ry%C5%ABnosuke" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79091265.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -79,7 +79,7 @@
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Okada Saburōsuke</dc:contributor>
 		<meta property="file-as" refines="#artist">Okada, Saburōsuke</meta>
-		<meta property="alternate-script" refines="#artist" xml:lang="ja">岡田 三郎助</meta>
+		<meta property="alternate-script" refines="#artist">岡田 三郎助</meta>
 		<link href="https://en.wikipedia.org/wiki/Okada_Sabur%C5%8Dsuke" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n85247957.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
